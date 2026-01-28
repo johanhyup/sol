@@ -1,0 +1,17 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "USDT token on Solana.",
+  "image": "https://raw.githubusercontent.com/johanhyup/sol/main/metadata/usdt-logo.png",
+  "external_url": "https://github.com/johanhyup/sol",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/johanhyup/sol/main/metadata/usdt-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
